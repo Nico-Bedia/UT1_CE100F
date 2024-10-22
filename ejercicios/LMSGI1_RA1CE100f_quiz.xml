@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE quiz>
+<quiz>
+    <!--  Item 01  -->
+    <question type="multichoice">
+        <name>
+            <text>
+                Los lenguajes de marcas sse usan para:
+            </text>
+        </name>
+        <questiontext>
+            <text>
+                Los lenguajes de marcas sse usan para:
+            </text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>false</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+        <answer fraction="0">
+            <text>
+                    Dar formato a documentos de texto.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                    Definir la estructura de información del documento.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                    Facilitar el intercambio de ficheros entre aplicaciones y plataformas.
+            </text>
+        </answer>
+        <answer fraction="100">
+            <text>
+                Todas las anteriores son ciertas.
+            </text>
+        </answer>
+    </question>
+    <!--  Item 02 -->
+    <question type="multichoice">
+        <name>
+            <text>
+                ¿Cúal de las siguientes afirmaciones es una característica común de XML y SGML?
+            </text>
+        </name>
+        <questiontext>
+            <text>
+                ¿Cúal de las siguientes afirmaciones es una característica común de XML y SGML?
+            </text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>false</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+        <answer fraction="0">
+            <text>
+                Guardan el formato del documento.
+            </text>
+        </answer>
+        <answer fraction="100">
+            <text>
+                Guardan la estructura lógica del documento.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                Guardan documentos en el formato txt.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                Guardan la estructura del documento, independientemente de la plataforma en la que esté.
+            </text>
+        </answer>
+    </question>
+    <!--  Item 03 -->
+    <question type="multichoice">
+        <name>
+            <text>
+                Para añadir propiedades a un elemento usamos:
+            </text>
+        </name>
+        <questiontext>
+            <text>
+                Para añadir propiedades a un elemento usamos:
+            </text>
+        </questiontext>
+        <defaultgrade>1.0000000</defaultgrade>
+        <penalty>0.3333333</penalty>
+        <hidden>0</hidden>
+        <single>true</single>
+        <shuffleanswers>false</shuffleanswers>
+        <answernumbering>abc</answernumbering>
+        <answer fraction="100">
+            <text>
+                Attributos.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                Copias.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                Próloguos.
+            </text>
+        </answer>
+        <answer fraction="0">
+            <text>
+                Ninguno, no es posible añadir propiedades a los elementos.
+            </text>
+        </answer>
+    </question>
+</quiz>
