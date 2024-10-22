@@ -5,7 +5,7 @@ Identificación y explicación del elemento principal del fichero
 El elemento principal que utiliza el archivo con codigo XML utiliza mucho la etiqueta <quiz
 
 Análisis de los elementos utilizados en el fichero. Añade una imagen con el árbol que describe la estructura del fichero. 
-![arbol XML](/imagenes/arbol.png)
+![arbol XML](/IMAGENES/ARBOL.png)
 Análisis de los atributos que encuentres en el fichero. Razona los motivos por los que crees que se han usado atributos y no elementos en esos casos. 
 Valida la sintaxis del fichero y realiza un recorte que muestre el resultado de la validación. Utiliza el validador de sintaxis disponible en la siguiente dirección: 
 
